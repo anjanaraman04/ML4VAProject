@@ -11,6 +11,9 @@ decisions and reduce accident risks, initially through a model’s prediction th
 integrated into a mobile application for users.
 
 Models run on the data were split into two files for convience and readiblity as well as data leak prevention.
+
+**Check out our video explanation!** https://www.youtube.com/watch?v=9ueFwWydQ30&feature=youtu.be
+
 ## File 1 
 - Loaded the data from Kaggle
 - Cleaned and split the data
