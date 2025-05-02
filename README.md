@@ -11,14 +11,14 @@ decisions and reduce accident risks, initially through a model’s prediction th
 integrated into a mobile application for users.
 
 Models run on the data were split into two files for convience and readiblity as well as data leak prevention.
-# File 1 
+## File 1 
 - Loaded the data from Kaggle
 - Cleaned and split the data
 - Ran Dummy Classifier
 - Ran RandomForest
 - Ran LogRegression
 
-# File 2 
+## File 2 
 - Loaded the data from Kaggle
 - Cleaned and split the data
 - Ran linear SVC 
